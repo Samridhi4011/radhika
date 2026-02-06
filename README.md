@@ -1,4 +1,4 @@
-# radhika
+# Samridhi
 This is my first git repository
 <br>
-Author-Radhika Dwivedi
+Author-Samridhi singh
